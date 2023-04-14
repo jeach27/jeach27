@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin Coromac</h1>
-<h3 align="center">A passionate programmer student of engineering sciences and systems from guatemala</h3>
+<h3 align="center">A passionate programmer student of engineering sciences and systems from Guatemala</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
