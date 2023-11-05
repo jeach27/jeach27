@@ -12,3 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeach27&show_icons=true&locale=en&layout=compact" alt="jeach27" /></p>
 
+<p><img align="left" src="Diplomas\AdministradorBaseDatos_page-0001.jpg" alt="jeach27" /></p>
+
+
+
