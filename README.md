@@ -13,6 +13,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeach27&show_icons=true&locale=en&layout=compact" alt="jeach27" /></p>
 
 <p><img src="Diplomas\AdministradorBaseDatos_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\AdministradorServidores_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\DesarrolladorAPPMoviles_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\DesarrolladorBackend_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\DesarrolladorFrontend_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\DesarrolladorVideoJuegos_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\DesarrolloWeb_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\IntroduccionSQL_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\ProgramadorPOO_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
+<p><img src="Diplomas\Python_page-0001.jpg" alt="Diploma" width="480" height="380" /></p>
 
 
 
