@@ -14,20 +14,20 @@
 
 
 <p align="center">
-  <img src="Diplomas\AdministradorBaseDatos_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\AdministradorServidores_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\DesarrolladorAPPMoviles_page-0001.jpg" alt="Diploma" width="220" height="180" />
+  <img src="Diplomas\AdministradorBaseDatos_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\AdministradorServidores_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\DesarrolladorAPPMoviles_page-0001.jpg" alt="Diploma" width="200" height="180" />
 </p>
 <p align="center">
-  <img src="Diplomas\DesarrolladorBackend_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\DesarrolladorFrontend_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\DesarrolladorVideoJuegos_page-0001.jpg" alt="Diploma" width="220" height="180" />
+  <img src="Diplomas\DesarrolladorBackend_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\DesarrolladorFrontend_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\DesarrolladorVideoJuegos_page-0001.jpg" alt="Diploma" width="200" height="180" />
 </p>
 <p align="center">
-  <img src="Diplomas\DesarrolloWeb_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\IntroduccionSQL_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\ProgramadorPOO_page-0001.jpg" alt="Diploma" width="220" height="180" />
-  <img src="Diplomas\Python_page-0001.jpg" alt="Diploma" width="220" height="180" />
+  <img src="Diplomas\DesarrolloWeb_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\IntroduccionSQL_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\ProgramadorPOO_page-0001.jpg" alt="Diploma" width="200" height="180" />
+  <img src="Diplomas\Python_page-0001.jpg" alt="Diploma" width="200" height="180" />
 </p>
 
 
